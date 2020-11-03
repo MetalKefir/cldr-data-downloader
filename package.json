@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "adm-zip": "0.4.13",
-    "mkdirp": "0.5.0",
+    "mkdirp": "1.0.4",
     "nopt": "3.0.x",
     "progress": "1.1.8",
     "q": "1.0.1",
@@ -44,8 +44,8 @@
     "request-progress": "0.3.1"
   },
   "devDependencies": {
-    "grunt": "0.4.x",
-    "grunt-contrib-jshint": "0.12.x",
+    "grunt": "1.0.4",
+    "grunt-contrib-jshint": "2.1.0",
     "grunt-dco": "0.0.3",
     "matchdep": "*"
   }
